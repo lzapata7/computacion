@@ -1,0 +1,6 @@
+click==8.1.7
+pygame==2.5.2
+redis==5.0.8
+pytest==8.3.2
+pytest-cov==5.0.0
+coverage==7.6.1
